@@ -1,0 +1,8 @@
+data/
+logs/
+conf/
+mnt/
+tmp/
+createDB.mongodb
+neo4j/
+plugins/
